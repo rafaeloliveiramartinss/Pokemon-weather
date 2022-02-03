@@ -59,7 +59,7 @@ Clique em Select Folder
 </div>
  
 #### passo 7º <h4>
- Aqui estao todos os arquivos do projeto. 
+ Aqui estarão todos os arquivos do projeto. 
 1. seguindo de **Assets** imagens
 1. seguindo de **Config** estão as a implementação das **API,s**
 1. Na pasta **CSS** está a estilo o estido documento web.
