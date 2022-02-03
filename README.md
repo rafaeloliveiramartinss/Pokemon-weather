@@ -45,21 +45,21 @@ Seguindo os passos em destaque abaixo, você irá abrir a pasta do projeto no vs
 </div>
  
 #### passo 5º <h4>
-###### Pasta com arquivos fonte.<h6>
+Pasta com arquivos fonte.
 
   <div align="center">
 <img src="https://user-images.githubusercontent.com/58194291/151752762-8f64761b-a456-41af-a42f-20df81f2ec0c.png" />
 </div>
  
 #### passo 6º <h4>
-###### Clique em Select Folder<h6>
+Clique em Select Folder
 
   <div align="center">
 <img src="https://user-images.githubusercontent.com/58194291/151752858-2bd5e833-fa40-478f-8b64-282784a90596.png" />
 </div>
  
 #### passo 7º <h4>
-###### Aqui está todos os arquivos do projeto. 
+ Aqui estao todos os arquivos do projeto. 
 1. seguindo de **Assets** imagens
 1. seguindo de **Config** estão as a implementação das **API,s**
 1. Na pasta **CSS** está a estilo o estido documento web.
