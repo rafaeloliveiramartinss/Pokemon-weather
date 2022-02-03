@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <title>Pokemon</title>
+    <link href="css/stylesheet.css" rel="stylesheet" media="screen">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="sortcut icon" href="Assets/pokebola.ico" type="image/x-icon" />
+   
+</head>
+
+<body>
+    <header class="cabecalho">                                                   <!--cabeçalho top da pagina menu-->
+        <img class="cabecalho-imagem" src="assets/logo.png" alt="Logo Pokemon">
+        <nav class="cabecalho-menu">
+            <form class="busca">
+                <input type="search" id="input_cidade" />
+                <button>Buscar</button>
+            </form>
+                
+
+                
+                       
+        </nav>
+    </header>  
+  
+    <main class="conteudo">                                                       <!--Conteude principal meio da página-->
+      <section class="conteudo-principal">
+        <div class="conteudo-principal-escrito">
+            <h1 class="conteudo-principal-escrito-titulo"> Desafio Pokemon para Desenvolvedores</h1>
+            <h2 class="conteudo-principal-escrito-subtitulo">Insira uma cidade para exibir o pokemon de acordo com o clima e a temperatura. </h2>
+            <img class="conteudo-principal-imagem" src="" alt="" id="imagem_pokemon"/>
+                    
+      </section>
+
+         
+            </script>           
+                <div class="conteudo-secundario">                                        <!--Conteudo principal com as informações recebidadas e apresentada na tela-->
+                <label class="conteudo-secundario-titulo">O pokemon irá aparecer:</label></br>
+                <div class="conteudo-secundario-paragrafo">
+                    <label class="conteudo-principal-escrito-botao" id="lblPokemon"></label>
+                 </div></br>
+        
+                <label class="conteudo-secundario-titulo">Temperatura:</label>
+        
+                <div class="conteudo-secundario-paragrafo">
+                    <label class="conteudo-principal-escrito-botao" id="lblTemperatura"></label>
+                </div></br>
+        
+                <label class="conteudo-secundario-titulo">Está chovendo:</label>
+                <div class="conteudo-secundario-paragrafo">
+                    <label class="conteudo-principal-escrito-botao" id="lblChuva"></label>
+                </div></br>
+                </br><label class="conteudo-secundario-titulo">Nome da cidade:</label>
+                <div class="conteudo-secundario-paragrafo">
+                    <label class="conteudo-principal-escrito-botao" id="lblCidade"></label>
+                </div></br>
+                <img src="" alt="" id="imagem_pokemon" class="pp" />
+
+    </main>
+            
+            <footer class="rodape">                                              <!--rodapé da pagina-->
+                <img class="rodape-imagem" src="Assets/logo.png" alt="Logo Pokemon">
+            </footer>
+        </div>
+
+    <script src='js/APIWeather.js'></script>
+    <script src='js/PokeAPI.js'></script>
+    <script src="js/script.js"></script>
+    </body>
+</html>
