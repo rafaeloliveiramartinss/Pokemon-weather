@@ -13,7 +13,7 @@
 
 #### passo 1º <h4>
 
-Clique duas vezes com o botão direito no arquivo **index.html**.
+Clique duas vezes com o botão direito do mouse no arquivo **index.html**.
 
  <div align="center">
 <img src="https://user-images.githubusercontent.com/58194291/152328905-82bf8b3b-29be-44ee-9e74-b4032da45979.JPG" />
