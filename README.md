@@ -28,7 +28,7 @@ Nesta etapa você deve digitar no campo e pressionar **Buscar**.<h6>
 </div>
  
 #### passo 3º <h3>
-Clicando em Buscar, irá aparecer a tela abaixo com o pokémon sorteado e as informções de nome do pokémon, temperatura, se está chovendo ou não.<h6>
+Clicando em Buscar, irá aparecer a tela abaixo com o pokémon sorteado e as informações de nome do pokémon, temperatura, se está chovendo ou não.<h6>
 
 #### passo 4º <h4>
 
